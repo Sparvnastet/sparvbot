@@ -1,0 +1,4 @@
+*.py[c|o]
+.venv
+database.db
+prod_run.sh
